@@ -1,0 +1,193 @@
+Quantifier,PI in the premise,Direction,Content,Monot,Premise,Consequent
+Nowi,Positive,Decreasing,9,DD,No alien died without drinking some soda.,No alien died without drinking coke.
+Nowi,Positive,Decreasing,6,DD,No alien died without reading some books.,No alien died without reading sci-fi novels.
+Nowi,Positive,Decreasing,11,DD,No alien died without playing with some toys.,No alien died without playing with toy cars.
+Nowi,Positive,Decreasing,8,DD,No alien died without throwing some balls.,No alien died without throwing tennis balls.
+Nowi,Positive,Increasing,9,DD,No alien died without drinking some coke.,No alien died without drinking soda.
+Nowi,Positive,Increasing,6,DD,No alien died without reading some sci-fi novels.,No alien died without reading books.
+Nowi,Positive,Increasing,11,DD,No alien died without playing with some toy cars.,No alien died without playing with toys.
+Nowi,Positive,Increasing,8,DD,No alien died without throwing some tennis balls.,No alien died without throwing balls.
+Evwho,Positive,Decreasing,9,DD,Every alien who did not drink some soda is hairy.,Every alien who did not drink coke is hairy.
+Evwho,Positive,Decreasing,6,DD,Every alien who did not read some books is hairy.,Every alien who did not read sci-fi novels is hairy.
+Evwho,Positive,Decreasing,11,DD,Every alien who did not play with some toys is hairy.,Every alien who did not play with toy cars is hairy.
+Evwho,Positive,Decreasing,8,DD,Every alien who did not throw some balls is hairy.,Every alien who did not throw tennis balls is hairy.
+Evwho,Positive,Increasing,9,DD,Every alien who did not drink some coke is hairy.,Every alien who did not drink soda is hairy.
+Evwho,Positive,Increasing,6,DD,Every alien who did not read some sci-fi novels is hairy.,Every alien who did not read books is hairy.
+Evwho,Positive,Increasing,11,DD,Every alien who did not play with some toy cars is hairy.,Every alien who did not play with toys is hairy.
+Evwho,Positive,Increasing,8,DD,Every alien who did not throw some tennis balls is hairy.,Every alien who did not throw balls is hairy.
+Nowi,Negative,Decreasing,1,DD,No alien died without eating any meat.,No alien died without eating pork.
+Nowi,Negative,Decreasing,10,DD,No alien died without eating at any restaurants.,No alien died without eating at Mexican restaurants.
+Nowi,Negative,Decreasing,3,DD,No alien died without seeing any birds.,No alien died without seeing doves.
+Nowi,Negative,Decreasing,12,DD,No alien died without using any coins.,No alien died without using quarters.
+Nowi,Negative,Increasing,1,DD,No alien died without eating any pork.,No alien died without eating meat.
+Nowi,Negative,Increasing,10,DD,No alien died without eating at any Mexican restaurants.,No alien died without eating at restaurants.
+Nowi,Negative,Increasing,3,DD,No alien died without seeing any doves.,No alien died without seeing birds.
+Nowi,Negative,Increasing,12,DD,No alien died without using any quarters.,No alien died without using coins.
+Evwho,Negative,Decreasing,1,DD,Every alien who did not eat any meat is hairy.,Every alien who did not eat pork is hairy.
+Evwho,Negative,Decreasing,10,DD,Every alien who did not eat at any restaurants is hairy.,Every alien who did not eat at Mexican restaurants is hairy.
+Evwho,Negative,Decreasing,3,DD,Every alien who did not see any birds is hairy.,Every alien who did not see doves is hairy.
+Evwho,Negative,Decreasing,12,DD,Every alien who did not use any coins is hairy.,Every alien who did not use quarters is hairy.
+Evwho,Negative,Increasing,1,DD,Every alien who did not eat any pork is hairy.,Every alien who did not eat meat is hairy.
+Evwho,Negative,Increasing,10,DD,Every alien who did not eat at any Mexican restaurants is hairy.,Every alien who did not eat at restaurants is hairy.
+Evwho,Negative,Increasing,3,DD,Every alien who did not see any doves is hairy.,Every alien who did not see birds is hairy.
+Evwho,Negative,Increasing,12,DD,Every alien who did not use any quarters is hairy.,Every alien who did not use coins is hairy.
+Nowi,None,Decreasing,5,DD,No alien died without reading magazines.,No alien died without reading news magazines.
+Nowi,None,Decreasing,2,DD,No alien died without watching sports matches.,No alien died without watching baseball matches.
+Nowi,None,Decreasing,7,DD,No alien died without buying clothes.,No alien died without buying shirts.
+Nowi,None,Decreasing,4,DD,No alien died without driving cars.,No alien died without driving SUVs.
+Nowi,None,Increasing,5,DD,No alien died without reading news magazines.,No alien died without reading magazines.
+Nowi,None,Increasing,2,DD,No alien died without watching baseball matches.,No alien died without watching sports matches.
+Nowi,None,Increasing,7,DD,No alien died without buying shirts.,No alien died without buying clothes.
+Nowi,None,Increasing,4,DD,No alien died without driving SUVs.,No alien died without driving cars.
+Evwho,None,Decreasing,5,DD,Every alien who did not read magazines is hairy.,Every alien who did not read news magazines is hairy.
+Evwho,None,Decreasing,2,DD,Every alien who did not watch sports matches is hairy.,Every alien who did not watch baseball matches is hairy.
+Evwho,None,Decreasing,7,DD,Every alien who did not buy clothes is hairy.,Every alien who did not buy shirts is hairy.
+Evwho,None,Decreasing,4,DD,Every alien who did not drive cars is hairy.,Every alien who did not drive SUVs is hairy.
+Evwho,None,Increasing,5,DD,Every alien who did not read news magazines is hairy.,Every alien who did not read magazines is hairy.
+Evwho,None,Increasing,2,DD,Every alien who did not watch baseball matches is hairy.,Every alien who did not watch sports matches is hairy.
+Evwho,None,Increasing,7,DD,Every alien who did not buy shirts is hairy.,Every alien who did not buy clothes is hairy.
+Evwho,None,Increasing,4,DD,Every alien who did not drive SUVs is hairy.,Every alien who did not drive cars is hairy.
+Few,Negative,Decreasing,1,DE,Few aliens ate any meat.,Few aliens ate pork.
+Few,Negative,Decreasing,10,DE,Few aliens ate at any restaurants.,Few aliens ate at Mexican restaurants.
+Few,Negative,Decreasing,3,DE,Few aliens saw any birds.,Few aliens saw doves.
+Few,Negative,Decreasing,12,DE,Few aliens used any coins.,Few aliens used quarters.
+Few,Negative,Increasing,1,DE,Few aliens ate any pork.,Few aliens ate meat.
+Few,Negative,Increasing,10,DE,Few aliens ate at any Mexican restaurants.,Few aliens ate at restaurants.
+Few,Negative,Increasing,3,DE,Few aliens saw any doves.,Few aliens saw birds.
+Few,Negative,Increasing,12,DE,Few aliens used any quarters.,Few aliens used coins.
+Negative,Negative,Decreasing,1,DE,The red alien did not eat any meat.,The red alien did not eat pork.
+Negative,Negative,Decreasing,10,DE,The red alien did not eat at any restaurants.,The red alien did not eat at Mexican restaurants.
+Negative,Negative,Decreasing,3,DE,The red alien did not see any birds.,The red alien did not see doves.
+Negative,Negative,Decreasing,12,DE,The red alien did not use any coins.,The red alien did not use quarters.
+Negative,Negative,Increasing,1,DE,The blue alien did not eat any pork.,The blue alien did not eat meat.
+Negative,Negative,Increasing,10,DE,The blue alien did not eat at any Mexican restaurants.,The blue alien did not eat at restaurants.
+Negative,Negative,Increasing,3,DE,The blue alien did not see any doves.,The blue alien did not see birds.
+Negative,Negative,Increasing,12,DE,The blue alien did not use any quarters.,The blue alien did not use coins.
+No,Negative,Decreasing,1,DE,No alien ate any meat.,No alien ate pork.
+No,Negative,Decreasing,10,DE,No alien ate at any restaurants.,No alien ate at Mexican restaurants.
+No,Negative,Decreasing,3,DE,No alien saw any birds.,No alien saw doves.
+No,Negative,Decreasing,12,DE,No alien used any coins.,No alien used quarters.
+No,Negative,Increasing,1,DE,No alien ate any pork.,No alien ate meat.
+No,Negative,Increasing,10,DE,No alien ate at any Mexican restaurants.,No alien ate at restaurants.
+No,Negative,Increasing,3,DE,No alien saw any doves.,No alien saw birds.
+No,Negative,Increasing,12,DE,No alien used any quarters.,No alien used coins.
+Few,None,Decreasing,5,DE,Few aliens read magazines.,Few aliens read news magazines.
+Few,None,Decreasing,2,DE,Few aliens watched sports matches.,Few aliens watched baseball matches.
+Few,None,Decreasing,7,DE,Few aliens bought clothes.,Few aliens bought shirts.
+Few,None,Decreasing,4,DE,Few aliens drove cars.,Few aliens drove SUVs.
+Few,None,Increasing,5,DE,Few aliens read news magazines.,Few aliens read magazines.
+Few,None,Increasing,2,DE,Few aliens watched baseball matches.,Few aliens watched sports matches.
+Few,None,Increasing,7,DE,Few aliens bought shirts.,Few aliens bought clothes.
+Few,None,Increasing,4,DE,Few aliens drove SUVs.,Few aliens drove cars.
+Negative,None,Decreasing,5,DE,The purple alien did not read magazines.,The purple alien did not read news magazines.
+Negative,None,Decreasing,2,DE,The purple alien did not watch sports matches.,The purple alien did not watch baseball matches.
+Negative,None,Decreasing,7,DE,The purple alien did not buy clothes.,The purple alien did not buy shirts.
+Negative,None,Decreasing,4,DE,The purple alien did not drive cars.,The purple alien did not drive SUVs.
+Negative,None,Increasing,5,DE,The yellow alien did not read news magazines.,The yellow alien did not read magazines.
+Negative,None,Increasing,2,DE,The yellow alien did not watch baseball matches.,The yellow alien did not watch sports matches.
+Negative,None,Increasing,7,DE,The yellow alien did not buy shirts.,The yellow alien did not buy clothes.
+Negative,None,Increasing,4,DE,The yellow alien did not drive SUVs.,The yellow alien did not drive cars.
+No,None,Decreasing,5,DE,No alien read magazines.,No alien read news magazines.
+No,None,Decreasing,2,DE,No alien watched sports matches.,No alien watched baseball matches.
+No,None,Decreasing,7,DE,No alien bought clothes.,No alien bought shirts.
+No,None,Decreasing,4,DE,No alien drove cars.,No alien drove SUVs.
+No,None,Increasing,5,DE,No alien read news magazines.,No alien read magazines.
+No,None,Increasing,2,DE,No alien watched baseball matches.,No alien watched sports matches.
+No,None,Increasing,7,DE,No alien bought shirts.,No alien bought clothes.
+No,None,Increasing,4,DE,No alien drove SUVs.,No alien drove cars.
+Exactly 12,Negative,Decreasing,1,NM,Exactly 12 aliens ate any meat.,Exactly 12 aliens ate pork.
+Exactly 12,Negative,Decreasing,10,NM,Exactly 12 aliens ate at any restaurants.,Exactly 12 aliens ate at Mexican restaurants.
+Exactly 12,Negative,Decreasing,3,NM,Exactly 12 aliens saw any birds.,Exactly 12 aliens saw doves.
+Exactly 12,Negative,Decreasing,12,NM,Exactly 12 aliens used any coins.,Exactly 12 aliens used quarters.
+Exactly 12,Negative,Increasing,1,NM,Exactly 12 aliens ate any pork.,Exactly 12 aliens ate meat.
+Exactly 12,Negative,Increasing,10,NM,Exactly 12 aliens ate at any Mexican restaurants.,Exactly 12 aliens ate at restaurants.
+Exactly 12,Negative,Increasing,3,NM,Exactly 12 aliens saw any doves.,Exactly 12 aliens saw birds.
+Exactly 12,Negative,Increasing,12,NM,Exactly 12 aliens used any quarters.,Exactly 12 aliens used coins.
+Only 12,Negative,Decreasing,1,NM,Only 12 aliens ate any meat.,Only 12 aliens ate pork.
+Only 12,Negative,Decreasing,10,NM,Only 12 aliens ate at any restaurants.,Only 12 aliens ate at Mexican restaurants.
+Only 12,Negative,Decreasing,3,NM,Only 12 aliens saw any birds.,Only 12 aliens saw doves.
+Only 12,Negative,Decreasing,12,NM,Only 12 aliens used any coins.,Only 12 aliens used quarters.
+Only 12,Negative,Increasing,1,NM,Only 12 aliens ate any pork.,Only 12 aliens ate meat.
+Only 12,Negative,Increasing,10,NM,Only 12 aliens ate at any Mexican restaurants.,Only 12 aliens ate at restaurants.
+Only 12,Negative,Increasing,3,NM,Only 12 aliens saw any doves.,Only 12 aliens saw birds.
+Only 12,Negative,Increasing,12,NM,Only 12 aliens used any quarters.,Only 12 aliens used coins.
+Exactly 12,None,Decreasing,5,NM,Exactly 12 aliens read magazines.,Exactly 12 aliens read news magazines.
+Exactly 12,None,Decreasing,2,NM,Exactly 12 aliens watched sports matches.,Exactly 12 aliens watched baseball matches.
+Exactly 12,None,Decreasing,7,NM,Exactly 12 aliens bought clothes.,Exactly 12 aliens bought shirts.
+Exactly 12,None,Decreasing,4,NM,Exactly 12 aliens drove cars.,Exactly 12 aliens drove SUVs.
+Exactly 12,None,Increasing,5,NM,Exactly 12 aliens read news magazines.,Exactly 12 aliens read magazines.
+Exactly 12,None,Increasing,2,NM,Exactly 12 aliens watched baseball matches.,Exactly 12 aliens watched sports matches.
+Exactly 12,None,Increasing,7,NM,Exactly 12 aliens bought shirts.,Exactly 12 aliens bought clothes.
+Exactly 12,None,Increasing,4,NM,Exactly 12 aliens drove SUVs.,Exactly 12 aliens drove cars.
+Only 12,None,Decreasing,5,NM,Only 12 aliens read magazines.,Only 12 aliens read news magazines.
+Only 12,None,Decreasing,2,NM,Only 12 aliens watched sports matches.,Only 12 aliens watched baseball matches.
+Only 12,None,Decreasing,7,NM,Only 12 aliens bought clothes.,Only 12 aliens bought shirts.
+Only 12,None,Decreasing,4,NM,Only 12 aliens drove cars.,Only 12 aliens drove SUVs.
+Only 12,None,Increasing,5,NM,Only 12 aliens read news magazines.,Only 12 aliens read magazines.
+Only 12,None,Increasing,2,NM,Only 12 aliens watched baseball matches.,Only 12 aliens watched sports matches.
+Only 12,None,Increasing,7,NM,Only 12 aliens bought shirts.,Only 12 aliens bought clothes.
+Only 12,None,Increasing,4,NM,Only 12 aliens drove SUVs.,Only 12 aliens drove cars.
+Exactly 12,Positive,Decreasing,9,NM,Exactly 12 aliens drank some soda.,Exactly 12 aliens drank coke.
+Exactly 12,Positive,Decreasing,6,NM,Exactly 12 aliens read some books.,Exactly 12 aliens read sci-fi novels.
+Exactly 12,Positive,Decreasing,11,NM,Exactly 12 aliens played with some toys.,Exactly 12 aliens played with toy cars.
+Exactly 12,Positive,Decreasing,8,NM,Exactly 12 aliens threw some balls.,Exactly 12 aliens threw tennis balls.
+Exactly 12,Positive,Increasing,9,NM,Exactly 12 aliens drank some coke.,Exactly 12 aliens drank soda.
+Exactly 12,Positive,Increasing,6,NM,Exactly 12 aliens read some sci-fi novels.,Exactly 12 aliens read books.
+Exactly 12,Positive,Increasing,11,NM,Exactly 12 aliens played with some toy cars.,Exactly 12 aliens played with toys.
+Exactly 12,Positive,Increasing,8,NM,Exactly 12 aliens threw some tennis balls.,Exactly 12 aliens threw balls.
+Only 12,Positive,Decreasing,9,NM,Only 12 aliens drank some soda.,Only 12 aliens drank coke.
+Only 12,Positive,Decreasing,6,NM,Only 12 aliens read some books.,Only 12 aliens read sci-fi novels.
+Only 12,Positive,Decreasing,11,NM,Only 12 aliens played with some toys.,Only 12 aliens played with toy cars.
+Only 12,Positive,Decreasing,8,NM,Only 12 aliens threw some balls.,Only 12 aliens threw tennis balls.
+Only 12,Positive,Increasing,9,NM,Only 12 aliens drank some coke.,Only 12 aliens drank soda.
+Only 12,Positive,Increasing,6,NM,Only 12 aliens read some sci-fi novels.,Only 12 aliens read books.
+Only 12,Positive,Increasing,11,NM,Only 12 aliens played with some toy cars.,Only 12 aliens played with toys.
+Only 12,Positive,Increasing,8,NM,Only 12 aliens threw some tennis balls.,Only 12 aliens threw balls.
+Every,None,Decreasing,5,UE,Every alien read magazines.,Every alien read news magazines.
+Every,None,Decreasing,2,UE,Every alien watched sports matches.,Every alien watched baseball matches.
+Every,None,Decreasing,7,UE,Every alien bought clothes.,Every alien bought shirts.
+Every,None,Decreasing,4,UE,Every alien drove cars.,Every alien drove SUVs.
+Every,None,Increasing,5,UE,Every alien read news magazines.,Every alien read magazines.
+Every,None,Increasing,2,UE,Every alien watched baseball matches.,Every alien watched sports matches.
+Every,None,Increasing,7,UE,Every alien bought shirts.,Every alien bought clothes.
+Every,None,Increasing,4,UE,Every alien drove SUVs.,Every alien drove cars.
+Many,None,Decreasing,5,UE,Many aliens read magazines.,Many aliens read news magazines.
+Many,None,Decreasing,2,UE,Many aliens watched sports matches.,Many aliens watched baseball matches.
+Many,None,Decreasing,7,UE,Many aliens bought clothes.,Many aliens bought shirts.
+Many,None,Decreasing,4,UE,Many aliens drove cars.,Many aliens drove SUVs.
+Many,None,Increasing,5,UE,Many aliens read news magazines.,Many aliens read magazines.
+Many,None,Increasing,2,UE,Many aliens watched baseball matches.,Many aliens watched sports matches.
+Many,None,Increasing,7,UE,Many aliens bought shirts.,Many aliens bought clothes.
+Many,None,Increasing,4,UE,Many aliens drove SUVs.,Many aliens drove cars.
+Positive,None,Decreasing,5,UE,The purple alien read magazines.,The purple alien read news magazines.
+Positive,None,Decreasing,2,UE,The purple alien watched sports matches.,The purple alien watched baseball matches.
+Positive,None,Decreasing,7,UE,The purple alien bought clothes.,The purple alien bought shirts.
+Positive,None,Decreasing,4,UE,The purple alien drove cars.,The purple alien drove SUVs.
+Positive,None,Increasing,5,UE,The yellow alien read news magazines.,The yellow alien read magazines.
+Positive,None,Increasing,2,UE,The yellow alien watched baseball matches.,The yellow alien watched sports matches.
+Positive,None,Increasing,7,UE,The yellow alien bought shirts.,The yellow alien bought clothes.
+Positive,None,Increasing,4,UE,The yellow alien drove SUVs.,The yellow alien drove cars.
+Every,Positive,Decreasing,9,UE,Every alien drank some soda.,Every alien drank coke.
+Every,Positive,Decreasing,6,UE,Every alien read some books.,Every alien read sci-fi novels.
+Every,Positive,Decreasing,11,UE,Every alien played with some toys.,Every alien played with toy cars.
+Every,Positive,Decreasing,8,UE,Every alien threw some balls.,Every alien threw tennis balls.
+Every,Positive,Increasing,9,UE,Every alien drank some coke.,Every alien drank soda.
+Every,Positive,Increasing,6,UE,Every alien read some sci-fi novels.,Every alien read books.
+Every,Positive,Increasing,11,UE,Every alien played with some toy cars.,Every alien played with toys.
+Every,Positive,Increasing,8,UE,Every alien threw some tennis balls.,Every alien threw balls.
+Many,Positive,Decreasing,9,UE,Many aliens drank some soda.,Many aliens drank coke.
+Many,Positive,Decreasing,6,UE,Many aliens read some books.,Many aliens read sci-fi novels.
+Many,Positive,Decreasing,11,UE,Many aliens played with some toys.,Many aliens played with toy cars.
+Many,Positive,Decreasing,8,UE,Many aliens threw some balls.,Many aliens threw tennis balls.
+Many,Positive,Increasing,9,UE,Many aliens drank some coke.,Many aliens drank soda.
+Many,Positive,Increasing,6,UE,Many aliens read some sci-fi novels.,Many aliens read books.
+Many,Positive,Increasing,11,UE,Many aliens played with some toy cars.,Many aliens played with toys.
+Many,Positive,Increasing,8,UE,Many aliens threw some tennis balls.,Many aliens threw balls.
+Positive,Positive,Decreasing,9,UE,The red alien drank some soda.,The red alien drank coke.
+Positive,Positive,Decreasing,6,UE,The red alien read some books.,The red alien read sci-fi novels.
+Positive,Positive,Decreasing,11,UE,The red alien played with some toys.,The red alien played with toy cars.
+Positive,Positive,Decreasing,8,UE,The red alien threw some balls.,The red alien threw tennis balls.
+Positive,Positive,Increasing,9,UE,The blue alien drank some coke.,The blue alien drank soda.
+Positive,Positive,Increasing,6,UE,The blue alien read some sci-fi novels.,The blue alien read books.
+Positive,Positive,Increasing,11,UE,The blue alien played with some toy cars.,The blue alien played with toys.
+Positive,Positive,Increasing,8,UE,The blue alien threw some tennis balls.,The blue alien threw balls.
