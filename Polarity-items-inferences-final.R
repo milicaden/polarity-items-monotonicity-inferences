@@ -22,8 +22,7 @@ options(scipen = 999)
 
 theme_set(theme_bw())
 
-#CHANGE TO GITHUB
-Folder <- "/Users/milica/Desktop/My papers/NPIpaperrevisions/Script and results files/"
+Folder <- "https://github.com/milicaden/polarity-items-monotonicity-inferences/tree/master/Results%20files/"
 
 listfiles = c(paste0(Folder, "Exp1Results1.csv"),paste0(Folder, "Exp1Results2.csv"),paste0(Folder, "Exp1Results3.csv"),
               paste0(Folder, "Exp2Results1.csv"),paste0(Folder, "Exp2Results2.csv"),paste0(Folder, "Exp2Results3.csv"),
